@@ -364,7 +364,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/trypostit/trypost-agent.git",
-        "sha": "bf52d6b27e5cf3cde85afd94cd19aa21f03c5434"
+        "sha": "9f619fe6a07037b519d56688df965ec6b8720df9"
       },
       "homepage": "https://trypost.it",
       "keywords": ["trypost", "trypost mcp", "trypost scheduler"],
